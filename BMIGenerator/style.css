@@ -7,7 +7,11 @@ body{
     margin-top: 15%;
     text-align: center;
 }
-
+#results {
+    font-size: 22px;
+    margin-top: 20px;
+    font-weight: 900;
+}
 button{
     padding: 10px;
     width: 200px;
@@ -17,4 +21,13 @@ button{
     color: #212121;
     border-radius: 20px;
     border: none;
+}
+#normal{
+    color: #5aff5a
+}
+#underweight{
+    color: red;
+}
+#overweight{
+    color: red;
 }
